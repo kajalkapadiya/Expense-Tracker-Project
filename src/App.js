@@ -8,21 +8,21 @@ const DUMMY_EXPENSES = [
     item: "food",
     amount: "Rs. 10",
     LocationOfExpenditure: "cafe",
-    date: new Date(2023, 7, 2),
+    date: new Date(2020, 7, 14),
   },
   {
     id:"e2",
     item: "petrol",
     amount: "Rs. 100",
     LocationOfExpenditure: "bike",
-    date: new Date(2023, 8, 1),
+    date: new Date(2021, 2, 28),
   },
   {
     id:"e3",
     item: "movie",
     amount: "Rs. 200",
     LocationOfExpenditure: "PVR",
-    date: new Date(2023, 29, 5),
+    date: new Date(2021, 5, 12),
   },
 ];
 
